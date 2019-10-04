@@ -1,3 +1,7 @@
+" Selamat Menikmati "
+     created by :
+    >ImNotHacker<
+
 #qpy:console
 import sys
 import time
